@@ -1,6 +1,6 @@
 # sistema
 
-sistema de pdv em pithon 
+sistema de pdv em python 
 
 com sqllite 
 
