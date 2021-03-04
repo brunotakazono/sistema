@@ -4,4 +4,4 @@ sistema de pdv em python
 
 com sqllite 
 
-scripy principal "sistema.py" todos os recursos devem ser importados nesse script
+script principal "sistema.py" todos os recursos devem ser importados nesse script
