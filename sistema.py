@@ -31,13 +31,32 @@ while True:
             if submenu == 1:
                 print('Aguarde')
             elif submenu ==2:
-                print('Aguarde')
+                import fornecedorescad
+
+                fornecedorescad.nomeFantasia
+                fornecedorescad.razaoSocial
+                fornecedorescad.cnpj
+                fornecedorescad.inscEstadual
+                fornecedorescad.telefone
+                fornecedorescad.email
+                fornecedorescad.site
+                fornecedorescad.obs
+                fornecedorescad.cep
+                fornecedorescad.endereco
+                fornecedorescad.numero
+                fornecedorescad.bairro
+                fornecedorescad.cidade
+                fornecedorescad.estado
+
+
             elif submenu == 3:
                 print('Aguarde')
             elif submenu == 4:
                 print('Aguarde')
             elif submenu == 5:
-                return resposta
+                print('saindo do sistema até logo.')
+                break
+
 
     elif resposta == 3:
         print('saindo do sistema até logo.')
