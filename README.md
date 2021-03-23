@@ -13,3 +13,6 @@ no prompt de comando com python instalado digite :
 
 pip install db-sqlite3
 
+em ordem de funcionar você deve também ter as dlls referentes ao sqlite3
+
+https://www.sqlite.org/download.html
