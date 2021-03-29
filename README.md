@@ -16,5 +16,8 @@ Em ordem de funcionar você deve também ter as dlls referentes ao sqlite3.
 
 https://www.sqlite.org/download.html
 
+Recomend-se o uso do pycharm como compilador ja que foi
+usado no desenvolvimento do sistema. 
+
 
 Para utilizar o SW ja compilado baixe o instalador Estoque.exe e instale conforme o manual.
