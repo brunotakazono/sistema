@@ -16,7 +16,7 @@ Em ordem de funcionar você deve também ter as dlls referentes ao sqlite3.
 
 https://www.sqlite.org/download.html
 
-Recomend-se o uso do pycharm como compilador ja que foi
+Recomenda-se o uso do pycharm como compilador ja que foi
 usado no desenvolvimento do sistema. 
 
 
