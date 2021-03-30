@@ -9,8 +9,9 @@ c = db.cursor()
 c.execute('SELECT * from registro WHERE username="%s" AND senha="%s"' % (user, pswd))
 data = c.fetchone()
 if data is None:
-    print("Login Failed")
-    os.system('python "sistema.py"')
+    print("Login Failed !!")
+    exec(open("login.py").read())
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 else:
     print("Welcome")
