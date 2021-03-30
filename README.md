@@ -2,7 +2,7 @@
 
 Sistema de estoque em python com uso do sqlite3
 
-Para compular o programa use os arquivos na pasta source
+Para compilar o programa use os arquivos na pasta source
 
 Script principal "sistema.py" todos os recursos estão carregados nesse arquivo,
 é ele que deve ser compilado.
