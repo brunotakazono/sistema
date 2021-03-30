@@ -64,8 +64,8 @@ while True:
                 while True:
                     k = input('Deseja continuar? Sim/Não: ')
                     if k == 'Sim':
-                        print('Consulta de Fornecedores')
-                        exec(open("buscaf.py").read())
+                        print('Consulta de Produtos')
+                        exec(open("buscap.py").read())
                         os.system('cls' if os.name == 'nt' else 'clear')
                         continue
                     if k == 'Não':
@@ -77,8 +77,8 @@ while True:
                 while True:
                     k = input('Deseja continuar? Sim/Não: ')
                     if k == 'Sim':
-                        print('Consulta de Produtos')
-                        exec(open("buscap.py").read())
+                        print('Consulta de Fornecedores')
+                        exec(open("buscaf.py").read())
                         os.system('cls' if os.name == 'nt' else 'clear')
                         continue
                     if k == 'Não':
@@ -91,7 +91,7 @@ while True:
                     k = input('Deseja continuar? Sim/Não: ')
                     if k == 'Sim':
                         print('Cadastro de Clientes')
-                        exec(open("cadcliente.py").read())
+                        exec(open("cadcliente.py", encoding="utf8").read())
                         os.system('cls' if os.name == 'nt' else 'clear')
                         continue
                     if k == 'Não':
